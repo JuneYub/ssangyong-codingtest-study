@@ -46,6 +46,7 @@ public class ex_3 {
 	        	answer[i]=list.get(i);
 	        }  // 최대 개수로 맞춘사람들 list에 번호를 뽑아 출력
 	        
+	        
 	        return answer;
 	    }
 	}
