@@ -1,5 +1,5 @@
 걸린 시간 : 35분
-레벨 : 실버2
+레벨 : 실버 2
 
 import java.io.*;
 import java.util.*;
